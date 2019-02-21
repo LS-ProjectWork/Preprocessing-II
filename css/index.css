@@ -257,3 +257,20 @@ img {
   width: 30%;
   margin-bottom: 30px;
 }
+.home .content-pick .btn {
+  display: flex;
+  justify-content: flex-start;
+}
+.home .content-pick .btn button {
+  background-color: #17A2B8;
+  color: white;
+  cursor: pointer;
+  padding: 10px 5%;
+  width: 20rem;
+  font-size: 2rem;
+  border-radius: 13px;
+}
+.home .content-pick .btn button:hover {
+  background-color: white;
+  color: #17A2B8;
+}
